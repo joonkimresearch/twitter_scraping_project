@@ -7,4 +7,4 @@
   - Clean text and location data (Locationtagger) and add sentiment analysis (VADER): **twitter_sentiment.ipynb**   
 
 ## Dashboard
-![Dashboard](https://github.com/joonkimresearch/twitter_scraping_project/blob/3605b06a8902bce0e46584c816e00012831aa958/dashboard.jpg)
+![Dashboard](https://github.com/joonkimresearch/twitter_scraping_project/blob/3a82b033b9e4e63e56be4f134aae82d994df2690/dash.png)
